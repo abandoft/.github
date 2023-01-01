@@ -8,7 +8,7 @@ A superb software experience for users worldwide!
 Please send an application email to moluopro@gmail.com
 
 ### Donate
-If you feel that our open source software is helpful to you, that's impossible. 
+If you feel that our open source software is helpful to you, please [sponsor us](https://paypal.me/abandoft).  
 
 ### Contact
 Website: www.abandoft.com
