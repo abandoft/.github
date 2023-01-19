@@ -1,6 +1,6 @@
 ## Abandoft Studio  
 
-### Organizational Introduction
+### Introduction
 A superb software experience for users worldwide!
 
 ### How to join
