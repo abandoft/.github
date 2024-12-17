@@ -1,4 +1,4 @@
-## Abandoft Studio  
+## Abandoft  
 
 ### Introduction
 A superb software experience for users worldwide!
